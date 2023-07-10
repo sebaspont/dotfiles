@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sebaspont@gmail.com
+	name = Sebastian Pont Verges
